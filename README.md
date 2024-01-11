@@ -1,4 +1,6 @@
-<h2>Aplicativo feito em C#</h2>
+<h2>Aplicativo feito em usando C# e o .NET</h2>
+
+
 <p>Além de fazer um cálculo de Inss, quando clicado nos ícones na sessão "Automatize", o cifrão para a página do google aonde diz quando está o dolar em relação ao Real, e o petróleo fala sobre as acões da empresa Petrobras</p>
 
 
